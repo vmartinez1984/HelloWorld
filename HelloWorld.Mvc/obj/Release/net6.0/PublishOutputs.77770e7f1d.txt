@@ -1,0 +1,7 @@
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\HelloWorld.Mvc.exe
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\HelloWorld.Mvc.dll
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\HelloWorld.Mvc.deps.json
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\HelloWorld.Mvc.runtimeconfig.json
+C:\Users\vmartinez\source\repos\vmartinez1984\HolaMundo\HelloWorld.Mvc\obj\Release\net6.0\PubTmp\Out\HelloWorld.Mvc.pdb
