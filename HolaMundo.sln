@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Api", "HolaMundo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Mvc", "HelloWorld.Mvc\HelloWorld.Mvc.csproj", "{E9EBCDB0-7E2A-4C4D-A071-FF00AFF2B881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empleados.Crud", "Empleados.Crud\Empleados.Crud.csproj", "{110C3970-D71D-4E0D-A202-4AE2E2A875D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empleados.Crud", "Empleados.Crud\Empleados.Crud.csproj", "{110C3970-D71D-4E0D-A202-4AE2E2A875D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaMundoJwt", "HelloWordJwtAndRoles\HolaMundoJwt.csproj", "{705D8EAC-E40C-4943-A8A7-D5D5F63138ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{110C3970-D71D-4E0D-A202-4AE2E2A875D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{110C3970-D71D-4E0D-A202-4AE2E2A875D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{110C3970-D71D-4E0D-A202-4AE2E2A875D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705D8EAC-E40C-4943-A8A7-D5D5F63138ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705D8EAC-E40C-4943-A8A7-D5D5F63138ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705D8EAC-E40C-4943-A8A7-D5D5F63138ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705D8EAC-E40C-4943-A8A7-D5D5F63138ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

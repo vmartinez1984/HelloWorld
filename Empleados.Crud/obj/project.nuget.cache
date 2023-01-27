@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmXZQQEp0rGDFLmcabE+x4Yv5gp8SQVcAIQc/auRWeCKPPoV5P6DLb1MMZsjRoiMsdJfJIHuQ9FRNBZ5CXuwGQ==",
+  "dgSpecHash": "KTUuhyIMNISEV0MxemwnzMM5T3wufaNQY1h9wKSsXIZ/bc07WtFvV+UMHpWZkREjfBtT5pX7jrqgYrAVnesK4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vmartinez\\source\\repos\\vmartinez1984\\HolaMundo\\Empleados.Crud\\Empleados.Crud.csproj",
+  "projectFilePath": "C:\\Users\\vmartinez\\source\\repos\\vmartinez1984\\HelloWorld\\Empleados.Crud\\Empleados.Crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmartinez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vmartinez\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
